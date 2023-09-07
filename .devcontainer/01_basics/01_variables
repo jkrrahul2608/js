@@ -1,0 +1,12 @@
+const accountID = 12345
+let accountEmail = "rahul@google.com"
+var accountPassword = "1234567"
+accountCity = "Hyderabad"
+
+// accountID = 2 //not allowed
+
+accountEmail = "rkj@google.com"
+accountPassword = "54321"
+accountCity = "Telangana"
+
+console.table([accountID,accountEmail,accountPassword,accountCity])
